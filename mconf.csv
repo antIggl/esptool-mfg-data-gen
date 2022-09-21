@@ -1,0 +1,9 @@
+fact_dev_data,namespace,
+ser_number,data,hex2bin
+manf_date,data,u32
+hw_version,data,u32
+manufacturer,data,string,REPEAT
+model_name,data,string,REPEAT
+ean,data,string,REPEAT
+batch_id,data,string,REPEAT
+device_name,data,string

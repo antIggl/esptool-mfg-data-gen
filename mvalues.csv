@@ -1,0 +1,5 @@
+ser_number,manf_date,hw_version,manufacturer,model_name,ean,batch_id,device_name
+0B,123123,0020000,"EMBIO Diagnostics Ltd",AirBELD,0303030303,345332,AirBELD_0A0B
+0C,123123,0020000,,,,,AirBELD_0A0C
+0D,123123,0020000,,,,,AirBELD_0A0D
+0F,123123,0020000,,,,,AirBELD_0A0F
